@@ -10,4 +10,4 @@ AAAA
 CCCC    
 GGGG    
 TTTT    
-AAAA
+
