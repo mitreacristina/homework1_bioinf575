@@ -1,1 +1,2 @@
 ACGT => Thr T
+TACG => Tyr Y
