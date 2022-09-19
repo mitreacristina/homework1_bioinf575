@@ -21,3 +21,4 @@ CGTA => Arg R
 ACGT => Thr T
 TACG => Tyr Y
 GTAC => Val V
+CGTA => Arg R
